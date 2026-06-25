@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ambienteskf.com/sitemap.xml
+
+Disallow: /admin/
+Disallow: /private/
